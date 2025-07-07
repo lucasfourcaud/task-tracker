@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "description": "Descripción de la tarea",
+    "status": "todo",
+    "createdAt": "2025-07-06T14:23:27.962831-07:00",
+    "updatedAt": "2025-07-06T14:23:27.9628608-07:00"
+  }
+]
